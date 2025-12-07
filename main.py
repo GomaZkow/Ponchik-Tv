@@ -5,4 +5,5 @@ def negate(a,b):
     return a-b
 
 def  ymn(a,b):
-    return a*b
+    z = a*b
+    return z
